@@ -1,8 +1,6 @@
 1.
 ```go
-import (
-    "fmt"
-)
+package main
 
 func main() {
     b := make([]int, 3)
