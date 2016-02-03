@@ -14,7 +14,7 @@ func main() {
     /**
      * Questions:
      *
-     * 1. What is the capcity of b?
+     * 1. What is the capacity of b?
      * 2. What is c?
      * 3. What is d?
      */
