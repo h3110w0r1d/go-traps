@@ -1,5 +1,9 @@
 # go-traps
 
+# Escape Analysis
+
+- add gcflags='-m' to enable it
+
 # Data Structures
 
 - Go Data Structures http://research.swtch.com/godata
