@@ -1,5 +1,7 @@
 # go-traps
 
+http://dave.cheney.net/2014/06/07/five-things-that-make-go-fast
+
 # Escape Analysis
 
 - add gcflags='-m' to enable it
